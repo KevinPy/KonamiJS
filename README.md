@@ -20,4 +20,4 @@ Embed the Konami Code into your Website for more fun.<br />
 
 Another functione, called `cheatMode()`, allows to insert the execution script of your Konami code.
 #### Usage
-Press &#8593; &#8593; &#8595; &#8595; &#8592; &#8594; &#8592; &#8594; B A
+Press &#8593; &#8593; &#8595; &#8595; &#8592; &#8594; &#8592; &#8594; B A Start
