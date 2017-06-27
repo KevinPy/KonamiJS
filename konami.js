@@ -1,7 +1,7 @@
 function konami() {
 
-	const arr = [];
-	const konami = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 13];
+	var arr = [];
+	var konami = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 13];
 
 	document.addEventListener('keyup', function(e) {
 		arr.push(e.keyCode);
