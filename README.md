@@ -1,3 +1,4 @@
+![KonamiJS logo](https://kevinpy.com/Projects/KonamiJS/konami_l.png)
 # KonamiJS
 ### A Konami code > 300b
 Embed the Konami Code into your Website for more fun.<br />
